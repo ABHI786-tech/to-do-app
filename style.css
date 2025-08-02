@@ -1,0 +1,45 @@
+body{
+    padding-top: 30px;
+background-color: rgb(2, 77, 77);
+}
+.container{
+    background-color: aliceblue;
+    width: 50%;
+    height: 60%;
+    text-align: center;
+    margin-left: 25%;
+    padding: 14px;
+    border-radius: 7px;
+}
+
+input{
+    
+    padding: 5px;
+    width: 50%;
+    border: 2px solid black ;
+    border-radius: 6px ;
+}
+button{
+    padding: 5px;
+    border: 3px solid grey;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color :rgb(8, 100, 100);
+}
+.text ul{
+    margin: 14px;
+    position: relative;
+    padding: 12px;
+    background-color: rgb(2, 44, 30);
+    color: white;
+    text-align: left;
+    font-size: 15px;
+    padding-left: 12px;
+    border-radius: 6px;
+
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
